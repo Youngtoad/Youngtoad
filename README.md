@@ -5,17 +5,20 @@
 
 Full stack 개발자가 되기 위해 노력중입니다!
 
-###사용 기술스택
-FrontEnd
+### 사용 기술스택
+#### FrontEnd
 중급: Android/JAVA
+
 초급: ReactNative, ReactJS, Django, Android/Kotiln
 
-BackEnd
+#### BackEnd
 중급: Django, MySQL
+
 초급: NodeJS, Spring/Spring boot, MongoDB, SQLite, PostgreSQL
 
-Language
+#### Languages
 중급: C, JAVA, Python
+
 초급: C++, Kotiln, JavaScript
 
 <!--
