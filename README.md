@@ -5,6 +5,8 @@
 
 Full stack 개발자가 되기 위해 노력중입니다!
 
+현재 Spring(JPA), Android(Kotlin), React 공부중...
+
 ### 사용 기술스택
 #### FrontEnd
 중급: Android/JAVA
