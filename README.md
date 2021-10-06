@@ -5,7 +5,7 @@
 
 Full stack 개발자가 되기 위해 노력중입니다!
 
-현재 Spring(JPA), Android(Kotlin), React 공부중...
+현재 Spring(JPA), Android(Kotlin) 공부중...
 
 ### 사용 기술스택
 #### FrontEnd
@@ -14,9 +14,9 @@ Full stack 개발자가 되기 위해 노력중입니다!
 초급: ReactNative, ReactJS, Django, Android/Kotiln
 
 #### BackEnd
-중급: Django, MySQL
+중급: Django, Spring/Spring boot
 
-초급: NodeJS, Spring/Spring boot, MongoDB, SQLite, PostgreSQL
+초급: NodeJS
 
 #### Languages
 중급: C, JAVA, Python
