@@ -1,8 +1,6 @@
 ### Hi there 👋
 김영진
 
-아주대학교 소프트웨어학과 졸업
-
 Full stack 개발자가 되기 위해 노력중입니다!
 
 현재 Spring(JPA), Android(Kotlin) 공부중...
@@ -11,7 +9,7 @@ Full stack 개발자가 되기 위해 노력중입니다!
 #### FrontEnd
 중급: Android/JAVA
 
-초급: ReactNative, ReactJS, Django, Android/Kotiln
+초급: ReactJS, Django, Android/Kotiln
 
 #### BackEnd
 중급: Django, Spring/Spring boot
