@@ -3,7 +3,7 @@
 
 Full stack 개발자가 되기 위해 노력중입니다!
 
-현재 Spring(JPA), Android(Kotlin) 공부중...
+현재 Spring(JPA), Python(Django) 공부중...
 
 ### 사용 기술스택
 #### FrontEnd
